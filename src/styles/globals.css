@@ -3,11 +3,7 @@
 @tailwind utilities;
 
 #bg {
-    /* background-image: url("../assets/Images/yellow.jpg"); */
-    background-repeat: no-repeat;
-    background-size: 80% 140%;
+  background-repeat: no-repeat;
+  background-size: 60% 120%;
   background-position: center;
-}
-#transparent {
-    background-color: transparent; 
 }
